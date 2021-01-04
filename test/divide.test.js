@@ -32,3 +32,5 @@ describe('Divide function', () => {
       // assert that exception is thrown
       expect(fn).to.throw();
   });
+  
+});
