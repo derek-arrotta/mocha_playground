@@ -3,7 +3,7 @@ function divide(a, b) {
     throw new Error("Cannot divide by 0");
   }
 
-  return a + b;
+  return a / b;
 }
 
 module.exports = divide;
